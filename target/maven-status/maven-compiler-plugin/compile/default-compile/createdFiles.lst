@@ -1,0 +1,14 @@
+com\example\mybatis\DemoApplication.class
+com\example\mybatis\service\StuService.class
+com\example\mybatis\dao\StudentDao.class
+com\example\mybatis\model\Homework.class
+com\example\mybatis\model\StudentHomework.class
+com\example\mybatis\model\Teacher.class
+com\example\mybatis\model\Student.class
+com\example\mybatis\dao\HomeworkDao.class
+com\example\mybatis\dao\StudentHomeworkDao.class
+com\example\mybatis\controller\ApiController.class
+com\example\mybatis\service\TeaServiceImpl.class
+com\example\mybatis\dao\TeacherDao.class
+com\example\mybatis\service\StuServiceImpl.class
+com\example\mybatis\service\TeaService.class
